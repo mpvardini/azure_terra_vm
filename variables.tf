@@ -1,0 +1,12 @@
+variable "client_secretkey" {}
+variable "res_name" {}
+variable "resourcegrouplocation" {}
+variable "virtual_net" {}
+variable "address" {}
+variable "dns_ser_address" {}
+variable "subnet_name" {}
+variable "subaddress" {}
+variable "nsgrule1" {}
+variable "mypubip" {}
+variable "mynic" {}
+variable "myvm" {}

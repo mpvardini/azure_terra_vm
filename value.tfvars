@@ -1,0 +1,12 @@
+client_secretkey="HaP8Q~LFnJ8303hTlmgApw2kTXdaEQXScWIwDaks"
+res_name="2108resourecegrp"
+resourcegrouplocation="westeurope"
+virtual_net="2108virtualnetwork"
+address=["10.0.0.0/24"]
+dns_ser_address=["10.0.0.4", "10.0.0.5"]
+subnet_name="2108subnet1"
+subaddress=["10.0.0.0/27"]
+nsgrule1="netsecurityrule"
+mypubip="2208pubip"
+mynic="2208myNIC"
+myvm="2208myterra_vm"
